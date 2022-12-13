@@ -16,7 +16,7 @@ DATA
 Download the CelebAText-HQ dataset and extract it to data -> CelebAText-HQ
 
 Training
-* To pre-train DAMSM models:
-	* python pretrain_DAMSM.py --cfg cfg/face.yml --gpu 0
-* To train image generator models: 
-	* python main.py --cfg cfg/train_face.yml --gpu 0
+- To pre-train DAMSM models:
+	+ python pretrain_DAMSM.py --cfg cfg/face.yml --gpu 0
+- To train image generator models: 
+	+ python main.py --cfg cfg/train_face.yml --gpu 0
