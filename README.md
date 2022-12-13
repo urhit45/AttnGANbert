@@ -3,6 +3,7 @@ In this repo lies our code for implementing the AttnGAN architecture using BERT 
 
 ## Folder Strucutre
 The Folder structure is as follows
+<br>
 ![Folder Structure](images/Folder%20Strcuture.PNG)
 
 ## Architechture
