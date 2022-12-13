@@ -1,7 +1,7 @@
 # AttnGAN<sub>bert<sub>
 In this repo lies our code for implementing the AttnGAN architecture using BERT as our text-encoder in the DAMSM architecture
 
-## Folder Strucutre
+## Folder Structure
 The Folder structure is as follows
 <br>
 ![Folder Structure](images/Folder%20Strcuture.PNG)
