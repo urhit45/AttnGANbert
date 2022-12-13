@@ -12,7 +12,7 @@ The Folder structure is as follows
 	|-models
 		|- Generator 
 	|-output 
-![Image text](https://github.com/HeAinorrt/BERT-AttnGAN-hes/blob/main/imgfile/netstructure.jpg)
+![Image text]()
 ## Dependencies
 python 3.7.
 pytorch
