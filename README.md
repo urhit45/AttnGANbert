@@ -1,18 +1,12 @@
 # AttnGAN<sub>bert<sub>
 In this repo lies our code for implementing the AttnGAN architecture using BERT as our text-encoder in the DAMSM architecture
 
+## Folder Strucutre
 The Folder structure is as follows
-	|-code
-	|-data
-		|-CelebAText-HQ
-			|-download the dataset
-	|-DAMSMencoders
-		|-CelebAText-HQ
-			|-Place the DAMSM encoders here
-	|-models
-		|- Generator 
-	|-output 
-![Image text](https://github.com/HeAinorrt/BERT-AttnGAN-hes/blob/main/imgfile/netstructure.jpg)
+![Folder Structure](images/Folder%20Strcuture.PNG)
+
+## Architechture
+![Image text](images/Architecture.PNG)
 ## Dependencies
 python 3.7.
 pytorch
